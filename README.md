@@ -1,7 +1,7 @@
-RaG TeA, the Randomly Generated Text Adventure
-by Dylan Craine
-version 0.2
-5/25/12
+RaG TeA, the Randomly Generated Text Adventure<br>
+by Dylan Craine<br>
+version 0.2<br>
+5/25/12<br>
 
 Instructions:
 So far, there's not much to do, but you can type 'north', 'south', 'east' and 'west' (or 'n', 's', 'e', 'w') to move in that direction. 'quit' will quit the game, 'look' will reprint the description (which is pretty boring at this point, but you can if you really want to,) and 'dance' will make you dance. 
